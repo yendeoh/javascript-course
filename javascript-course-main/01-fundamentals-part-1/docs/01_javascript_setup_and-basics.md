@@ -1,12 +1,15 @@
-## 🎯 What You'll Learn Today
+## 🎯 JavaScript Fundamentals with Advanced Concepts
 
-By the end of this hour, you'll be able to:
+Master these core and advanced JavaScript concepts:
 
 - Set up a professional JavaScript development environment
 - Use Git for version control and build your coding portfolio
 - Create and manage variables with let, const, and var
 - Understand JavaScript data types and check them with typeof
 - Use the browser console for debugging and testing
+- Advanced type coercion and equality comparisons
+- Deep dive into scope chains and hoisting behavior
+- Understanding execution contexts and the call stack
 
 ## 🛠️ Setup Your Development Environment
 
