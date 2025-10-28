@@ -1,12 +1,15 @@
-# Hour 1: Scoping, Execution Contexts & Hoisting – Student Guide
+# Hour 3: Understanding Primitives vs Objects in JavaScript
 
-## 🎯 What You'll Learn This Hour:
+## 🎯 Deep Dive into JavaScript Data Types:
 
-- Understand how JavaScript executes code with execution contexts and the call stack
-- Master scoping rules: global, function, and block scope with lexical scoping
-- Predict hoisting behavior for `var`, `let`, `const`, and different function types
-- Identify and fix Temporal Dead Zone (TDZ) errors
-- Use strict mode for better error detection and debugging
+- Master the differences between primitive types and objects
+- Understand memory allocation and reference behavior
+- Learn about object mutation and immutability
+- Explore shallow vs deep copying of objects
+- Practice with real-world object manipulation scenarios
+- Debug common reference-related bugs
+- Optimize memory usage with proper data structures
+- Implement defensive copying techniques
 
 ## 📊 Progress Tracker
 
