@@ -1,12 +1,15 @@
-# Hour 1: Game Foundation & Dice Rolling – Student Guide
+# Pig Game: Win Conditions & Game Reset Implementation
 
-## 🎯 What You'll Learn This Hour:
+## 🎯 Complete Game Logic Implementation:
 
-- Set up game state variables and initial conditions
-- Implement dice rolling with random number generation
-- Display dice images dynamically using `src` attribute
-- Add current score accumulation logic
-- Handle the "roll 1" scenario (lose current score)
+- Implement winning score threshold and victory detection
+- Create comprehensive game reset functionality
+- Add winner celebration visual effects
+- Implement clean state management for game reset
+- Build robust score validation and win checking
+- Handle edge cases in score accumulation
+- Add game history tracking (optional feature)
+- Implement save/load game state capability
 
 ## 📊 Progress Tracker
 
